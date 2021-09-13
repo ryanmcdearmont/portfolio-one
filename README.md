@@ -1,2 +1,2 @@
-# portfolio-one
-Ryan McDearmont's current portfolio website.
+# portfolio-homepage
+Ryan McDearmont's current portfolio homepage.
